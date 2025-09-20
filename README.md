@@ -1,7 +1,6 @@
-# Supplementary-R-Codes
-### This is the code file for the paper "Dynamic Count Time Series Modeling and Anomaly Detection for Online Automotive Quality Complaints". 
-### Author Zhi Song, Xuelong Hu, Jiujun Zhang, Castagliola Philippe 
-### Time: 2025.09.20
+### This is the code file for the paper "Dynamic Count Time Series Modeling and Anomaly Detection for Online Automotive Quality Complaints".
+### Author：Zhi Song, Xuelong Hu, Jiujun Zhang, Castagliola Philippe
+### Time:  2025.09.20
 
 Code File and Description：
 
@@ -191,11 +190,6 @@ Description: The four R scripts implement Phase-II monitoring for the brake abno
 
 File name: transmission_Window_Size_SDC-INAR(1)-G
 Description: This R script implements the procedure for selecting the optimal size m in the SDC-INAR(1)-G model for the transmission noise complaint case.
-###This is the code file for the paper "Dynamic Count Time Series Modeling and Anomaly Detection for Online Automotive Quality Complaints".
-### Author Zhi Song, Xuelong Hu, Jiujun Zhang, Castagliola Philippe
-### Time: 2025.09.20
-
-Code File and Description：
 
 File name: transmission_Window_Size_WDC-INAR(1)-G
 Description: This R script implements the procedure for selecting the optimal size m in the WDC-INAR(1)-G model for the transmission noise complaint case.
@@ -228,5 +222,4 @@ Description: The four R scripts implement Phase-II monitoring for the transmissi
 
 File name: 
 figure 1, figure 2, figure 3, figure 4, figure 5, figure 6, figure 7, figure R1, figure R2, figure R3, figure S1, figure S2, figure S3, figure S4.
-Description:.
-These R scripts generate all figures included in the main article (Figures 1–7), the response to reviewers (Figures R1–R3), and the supplementary file (Figures S1–S4).
+Description: These R scripts generate all figures included in the main article (Figures 1–7), the response to reviewers (Figures R1–R3), and the supplementary file (Figures S1–S4).
